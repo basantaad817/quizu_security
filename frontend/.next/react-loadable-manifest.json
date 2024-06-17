@@ -1,0 +1,32 @@
+{
+  "app\\profile\\page.jsx -> @/components/DashChangePassword": {
+    "id": "app\\profile\\page.jsx -> @/components/DashChangePassword",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_DashChangePassword_jsx.js"
+    ]
+  },
+  "app\\profile\\page.jsx -> @/components/DashExamHistory": {
+    "id": "app\\profile\\page.jsx -> @/components/DashExamHistory",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_DashExamHistory_jsx.js"
+    ]
+  },
+  "app\\profile\\page.jsx -> @/components/DashProfile": {
+    "id": "app\\profile\\page.jsx -> @/components/DashProfile",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_DashProfile_jsx.js"
+    ]
+  },
+  "app\\profile\\page.jsx -> next/image": {
+    "id": "app\\profile\\page.jsx -> next/image",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_api_image_js.js"
+    ]
+  },
+  "app\\profile\\page.jsx -> react-spinners/PropagateLoader": {
+    "id": "app\\profile\\page.jsx -> react-spinners/PropagateLoader",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_react-spinners_PropagateLoader_js.js"
+    ]
+  }
+}
